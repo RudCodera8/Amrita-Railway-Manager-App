@@ -6,7 +6,10 @@ Amrita Railway Manager App is a simple CLI app for Reserving , Cancelling and ch
 * [More about the project](#More-about-the-project)
 * [Installation](#Installation)
 * [Technologies used](#Technologies-used)
-
+* [Running the project](#Running-the-project
+* [Advantages of the project](#Advantages-of-the-project)
+* [Difficulties faced](#Difficulties-occured-during-the-project)
+* [Future plans for the project](#Future-plans-for-the-project)
 
 
 ### More about the project
@@ -35,5 +38,5 @@ Just make sure to save all files in same folder, and if you are using VsCode typ
 1) Since this was a group project we had a difficulty of python versions, the main programmer had a older version of python(2.x) and others had 3.x, so integrating had some time consumed. 
 2) Steps included coding the project in OOP concepts which needed control and remeberance of a function used, so had some difficulties at that stage.
 
-# Future Plans on the project
+## Future Plans for the project
 1) Plans to scale the project by connecting this to cloud server and using SSH make the app usablity more wider. For eg: A user can communicate with the project either using the Web app or CLI. 
