@@ -1,6 +1,8 @@
 # Amrita Railway Manager App
 Amrita Railway Manager App is a simple CLI app for Reserving , Cancelling and checking status of your ticket. This is a project based on OOP concepts in python.
 
+
+## Table of contents 
 * [More about the project](#More-about-the-project)
 * [Installation](#Installation)
 * [Technologies used](#Technologies-used)
@@ -20,5 +22,15 @@ Just clone or download the repository on your machine. It just needs an editor t
   b) time - for just pausing the program for making it more realistic
   c) random -  for generating random PNRs
   d) os - for handling the files (here its .dat type)
+  
+## Running the project 
+Just make sure to save all files in same folder, and if you are using VsCode type Editiors, make sure your workspace is set on that folder.
+
+## Advantages of the project
+1) Light weight, fast stable code following OOP concepts making editing and code reusablity easy.
+2) For saving the files we aint using any SQL based server, its simply .dat files for now. The programmer can change to CSV or JSON files as per their convenience. 
+3) Easy debugging and error free, developer friendly code. 
+
+  
 
 
