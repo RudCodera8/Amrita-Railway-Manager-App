@@ -13,7 +13,7 @@ Amrita Railway Manager App is a simple CLI app for Reserving , Cancelling and ch
 
 
 ### More about the project
-This project is based on OOP concepts of python and user can communicate with the program using the Terminal. Basically an end user can Book, cancel and view status of his tickets booked according to the train availablity set by the admin in the same App. So as soon as the admin adds train details, the user can book tickets using the train number and his/her details. A PNR number would be provided at the same instant using which the user can check the status and cancel his ticket. 
+This project is based on OOP concepts of python and user can communicate with the program using a Terminal. Basically an end user can Book, cancel and view status of his tickets booked according to the train availablity set by the admin in the same App. So as soon as the admin adds train details, the user can book tickets using the train number and his/her details. A PNR number would be provided at the same instant using which the user can check the status and cancel his ticket. 
 
 ### Installation 
 Just clone or download the repository on your machine. It just needs an editor to run. The app doesnt need any kind of server such as SQL, it basically works on .dat/.csv or .json (the programmer has to code accordingly, initial commit has .dat file support)
