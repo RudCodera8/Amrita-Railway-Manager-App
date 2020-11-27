@@ -31,6 +31,9 @@ Just make sure to save all files in same folder, and if you are using VsCode typ
 2) For saving the files we aint using any SQL based server, its simply .dat files for now. The programmer can change to CSV or JSON files as per their convenience. 
 3) Easy debugging and error free, developer friendly code. 
 
-  
+## Difficulties occured during the project
+1) Since this was a group project we had a difficulty of python versions, the main programmer had a older version of python(2.x) and others had 3.x, so integrating had some time consumed. 
+2) Steps included coding the project in OOP concepts which needed control and remeberance of a function used, so had some difficulties at that stage.
 
-
+# Future Plans on the project
+1) Plans to scale the project by connecting this to cloud server and using SSH make the app usablity more wider. For eg: A user can communicate with the project either using the Web app or CLI. 
