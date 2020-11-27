@@ -6,7 +6,7 @@ Amrita Railway Manager App is a simple CLI app for Reserving , Cancelling and ch
 * [More about the project](#More-about-the-project)
 * [Installation](#Installation)
 * [Technologies used](#Technologies-used)
-* [Running the project](#Running-the-project
+* [Running the project](#Running-the-project)
 * [Advantages of the project](#Advantages-of-the-project)
 * [Difficulties faced](#Difficulties-occured-during-the-project)
 * [Future plans for the project](#Future-plans-for-the-project)
